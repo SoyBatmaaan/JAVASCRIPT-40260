@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 32px;
+    border-bottom: 3px solid rgb(91, 139, 188);
+}
+
+
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid green;
+    padding-left: 200px;
+    padding-right: 200px;
+    height: 700px;
+}
+
+button{
+    margin: 20px 0 20px 0;
+    height: 40px;
+    width: 80px;
+}
+
+article{
+    border: 2px solid red;
+    width: 1800px;
+    display: flex;
+}
+
+div{
+    overflow: scroll;
+    margin: 20px;
+    height: 300px;
+    width: 600px;
+    border: 3px solid blue;
+    font-family: arial;
+}
+
+b{
+    color: rgb(120, 188, 18);
+}
