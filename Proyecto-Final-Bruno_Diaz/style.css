@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#main-login{
+    height: 99.3vh;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#main-visualizar{
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#main-superapp{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#header-app{
+    color: rgb(77, 77, 184);
+    font-size: 32px;
+    border-bottom: 3px solid black;
+}#header-app b{
+    margin: 0 40px 0 40px;
+}
+
+#box{
+    width: 550px;
+    height: 800px;
+    overflow-y: scroll;
+    border: 5px solid black;
+    text-align: center;
+    border-radius: 5%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}#box div{
+    width: 360px;
+    border: 2px solid red;
+    margin: 30px 0 30px 0;
+}
+
+#login-form{
+    display: flex;
+    border-radius: 20%;
+    border: 1px solid black;
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
+#login-form input{
+    margin: 8px 0 8px 0;
+}
+
+.exit-button{
+    float: right;
+    margin: 0 40px 0 40px;
+}
+
+#app_contenedor{
+    width: 400px;
+    border: 1px solid black;
+    text-align: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}

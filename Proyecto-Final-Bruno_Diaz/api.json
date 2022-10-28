@@ -1,0 +1,7 @@
+[
+    {"id": 1020301, "nombre": "Tomate 1 kg", "precio": 300, "url": "https://www.quironsalud.es/blogs/es/hablemos-nutricion/tomate.ficheros/2299323-tomate1.jpg?width=201&height=156&aspectRatio=true"},
+    {"id": 1020302, "nombre": "Galletita OREO 100g", "precio": 180, "url": "https://www.distribuidorapop.com.ar/wp-content/uploads/2019/05/galletitas-oreo-venta-ml.jpg"}, 
+    {"id": 1020303, "nombre": "Maruchan pollo picante 80g", "precio": 200, "url": "https://www.casachinaoficial.com/wp-content/uploads/2021/10/Fideo-Instantaneo-sabor-Pollo-Picante-Maruchan-x85gr-041789002991-usa-100-scaled.jpg" },
+    {"id": 1020304, "nombre": "Coca-Cola ORIGINAL 2.25lt", "precio": 300, "url": "https://www.casa-segal.com/wp-content/uploads/2020/03/coca-cola-225L-almacen-gaseosas-casa-segal-mendoza.jpg" },
+    {"id": 1020305, "nombre": "Monster Energy Drink 473mlt", "precio": 300, "url": "https://jumboargentina.vtexassets.com/arquivos/ids/580669-1200-auto?v=637219994317830000&width=1200&height=auto&aspect=true" }
+]
